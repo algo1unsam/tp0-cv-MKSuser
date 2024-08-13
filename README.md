@@ -1,8 +1,6 @@
 Carta de presentacion de Don Cosme
 
-
-
-
+![homerito](https://www.gustore.cl/img/estampados/7902/7902.png)
 
 Buenas noches estimados, mi nombre es Cosme Fulanito y deseo postularme para el puesto de programador junior de su empresa.
 
@@ -18,3 +16,4 @@ Videojuegos favoritos
 -Super Mario 2
 -Super Mario 3
 -Super Mario 4: La venganza
+
