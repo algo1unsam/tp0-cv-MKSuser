@@ -6,7 +6,7 @@ Buenas noches estimados, mi nombre es Cosme Fulanito y deseo postularme para el 
 
 En resumidas palabras, soy una maquina de programar. Fui entrenado y capacitado con altos estandares unsamenses, por lo que seria un grave error no contar con mi presencia en su equipo.
 
-Para serle sincero aun no cuento con habilidades especiales en React, pero lo que si tengo son un conjunto de habilidades muy especiales que he adquirido a lo largo de una prolongada carrera trabajando bajo la sombra, habilidades que me hacen una pesadilla para codigos de C y Python. Si me contrata en este momento, ahi comenzara todo. No descansare, solo programare. Pero si no lo hace, lo buscare, lo encontrare y lo buggeare digooo buscaré otro trabajo. 
+Para serle sincero aun no cuento con habilidades especiales en React, pero lo que si tengo son un conjunto de habilidades muy especiales que he adquirido a lo largo de una prolongada carrera trabajando bajo la sombra, habilidades que me hacen una pesadilla para codigos de C y Python. Si me contrata en este momento, ahi comenzara todo. No descansaré, solo programaré. Pero si no lo hace, lo buscaré, lo encontraré y lo buggearé… digooo buscaré otro trabajo. 
 
 Desde ya muchas gracias.
 
