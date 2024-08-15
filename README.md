@@ -1,4 +1,4 @@
-Carta de presentación de Don Cosme
+                    **Carta de presentación de Don Cosme**
 
 ![homerito](https://www.gustore.cl/img/estampados/7902/7902.png) 
 
@@ -10,7 +10,7 @@ Desde ya muchas gracias.
 
 _Videojuegos favoritos_ 
 
--Super Mario 
--Super Mario 2 
--Super Mario 3 
--Super Mario 4: La venganza 
+-Super Mario
+-Super Mario 2
+-Super Mario 3
+-Super Mario 4: La venganza
