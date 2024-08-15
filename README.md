@@ -1,4 +1,4 @@
-                    ***Carta de presentación de Don Cosme***
+***Carta de presentación de Don Cosme***
 
 ![homerito](https://www.gustore.cl/img/estampados/7902/7902.png) 
 
